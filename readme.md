@@ -1,4 +1,4 @@
-#BlogML : Codigos de ejemplo de algoritmos de machine learning.
+# BlogML : Codigos de ejemplo de algoritmos de machine learning.
 
 Este repositorio contiene ejemplos de implementaciones de varios algoritmos que han sido discutidos en el blog. El código está organizado en carpetas individuales para cada algoritmo, lo que facilita la descarga y visualización de ejemplos específicos.
 
