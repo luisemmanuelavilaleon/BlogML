@@ -7,6 +7,7 @@ Este repositorio contiene ejemplos de implementaciones de varios algoritmos que 
 El repositorio sigue una estructura de carpetas simple para organizar los ejemplos de algoritmos:
 
 - `OLS/`: Implementación del algoritmo de Mínimos Cuadrados Ordinarios (OLS) junto al dataset de ejemplo.
+- `Gradient Desecent/`: Implementación del algoritmo del descenso del gradiente.
 
 ## Cómo Utilizar este Repositorio
 
